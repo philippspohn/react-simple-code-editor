@@ -3,6 +3,6 @@
 .parcel-cache
 .vscode
 
-/lib/
+#/lib/
 /dist/
 /node_modules/
